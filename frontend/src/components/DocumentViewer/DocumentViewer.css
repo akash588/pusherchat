@@ -1,0 +1,12 @@
+/* DocumentViewer.css */
+.document-viewer {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .image-viewer {
+    width: 100%;
+    height: auto;
+  }
+  
